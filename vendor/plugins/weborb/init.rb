@@ -26,8 +26,6 @@ if Log.info?
   Log.info( "loading WebORB Configuration" )
 end
 
-if ENV['RAILS_ENV'] == 'development'
-  Dependencies.mechanism = :load
-end
 
 WebORBConfig.init
+
