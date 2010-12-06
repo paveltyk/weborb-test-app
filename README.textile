@@ -1,2 +1,7 @@
 h2. WebORB test application
 
+This is an application to get familiar with WebORB plugin and AMF.
+Project is hosted on heroku.com
+
+Plugin example can be found at http://weborb-test-app.heroku.com/examples/example.html
+
