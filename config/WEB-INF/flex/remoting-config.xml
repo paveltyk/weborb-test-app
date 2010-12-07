@@ -24,6 +24,12 @@
             <source>FileSystemService</source>
         </properties>
     </destination>
+
+    <destination id="userServiceImpl">
+        <properties>
+            <source>User</source>
+        </properties>
+    </destination>
     
     <destination id="FlexRemotingTest">
         <properties>
