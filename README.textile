@@ -9,3 +9,6 @@ Source of Flex Remoting can be found at "http://weborb-test-app.heroku.com/examp
 
 File System Service demo: "http://weborb-test-app.heroku.com/examples/file_system/index.html":http://weborb-test-app.heroku.com/examples/file_system/index.html
 
+Working on User model. Walkthrough can be found at "http://flexonrails.net/?p=54":http://flexonrails.net/?p=54
+Users can be created, edited or deleted on this page: "http://weborb-test-app.heroku.com/users":http://weborb-test-app.heroku.com/users
+
