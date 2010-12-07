@@ -7,3 +7,5 @@ Info service example can be found at "http://weborb-test-app.heroku.com/examples
 Tests can be executed at "http://weborb-test-app.heroku.com/examples/main.html":http://weborb-test-app.heroku.com/examples/main.html
 Source of Flex Remoting can be found at "http://weborb-test-app.heroku.com/examples/srcview/index.html":http://weborb-test-app.heroku.com/examples/srcview/index.html
 
+File System Service demo: "http://weborb-test-app.heroku.com/examples/file_system/index.html":http://weborb-test-app.heroku.com/examples/file_system/index.html
+
