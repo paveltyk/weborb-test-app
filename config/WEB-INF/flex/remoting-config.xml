@@ -18,6 +18,12 @@
             <source>InfoService</source>
         </properties>
     </destination>
+
+    <destination id="FileSystemService">
+        <properties>
+            <source>FileSystemService</source>
+        </properties>
+    </destination>
     
     <destination id="FlexRemotingTest">
         <properties>
